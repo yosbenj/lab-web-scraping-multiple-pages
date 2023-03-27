@@ -14,9 +14,9 @@
 
   Re-read the business case and the e-mail from the CTO, take a look at the flowchart and create an initial Trello board with the tasks you think you'll have to accomplish.
 
-#### Instructions 
+#### <u>Instructions Part 1<u>
 
-#### Prioritize the MVP
+#### Prioritize the MVP (Minimum Viable Product)
 
 In the previous lab, you had to scrape data about "hot songs". It's critical to be on track with that part, as it was part of the request from the CTO.
 
@@ -30,9 +30,10 @@ If you're done, you can try to expand the project on your own. Here are a few su
 - Apply the same logic to other "groups" of songs: the best songs from a decade or from a country / culture / language / genre.
 - Wikipedia maintains a large collection of lists of songs: https://en.wikipedia.org/wiki/Lists_of_songs
 
-#### Practice web scraping
+#### <u>Instructions Part 2<u>
+#### Practice web scraping. **This is not involved with the GNOD project of the week**
 
-As you've seen, scraping the internet is a skill that can get you all sorts of information. Here are some little challenges that you can try to gain more experience in the field:
+As you've seen, scraping the internet is a skill that can get you all sorts of information. Here are some little challenges that you can try to gain more experience in the field. Open a new Jupyter notebook and scrape at least 3 of these sites.
 
 - Retrieve an arbitrary Wikipedia page of "Python" and create a list of links on that page: `url ='https://en.wikipedia.org/wiki/Python'`
 - Find the number of titles that have changed in the United States Code since its last release point: `url = 'http://uscode.house.gov/download/download.shtml'`
