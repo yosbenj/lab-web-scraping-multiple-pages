@@ -14,7 +14,7 @@
 
   Re-read the business case and the e-mail from the CTO, take a look at the flowchart and create an initial Trello board with the tasks you think you'll have to accomplish.
 
-#### <u>Instructions Part 1</u>
+#### <u> Instructions Part 1 </u>
 
 #### Prioritize the MVP (Minimum Viable Product)
 
@@ -30,7 +30,7 @@ If you're done, you can try to expand the project on your own. Here are a few su
 - Apply the same logic to other "groups" of songs: the best songs from a decade or from a country / culture / language / genre.
 - Wikipedia maintains a large collection of lists of songs: https://en.wikipedia.org/wiki/Lists_of_songs
 
-#### <u>Instructions Part 2</u>
+#### <u> Instructions Part 2 </u>
 #### Practice web scraping. **This is not involved with the GNOD project of the week**
 
 As you've seen, scraping the internet is a skill that can get you all sorts of information. Here are some little challenges that you can try to gain more experience in the field. Open a new Jupyter notebook and scrape at least 3 of these sites.
